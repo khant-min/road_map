@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "header": "WHAT IS A PROGRAMMING?",
+      "article": "A programming language is a system of notation for writing computer programs. Most programming languages are text-based formal languages, but they may also be graphical. They are a kind of programming languages.",
+      "img": "programming"
+    },
+    {
+      "header": "WHAT IS A WEBSITE?",
+      "article": " A website is a collection of web pages and related content that is identified by a common domain name and published on at least one web server.",
+      "img": "website"
+    },
+    {
+      "header": "WHAT IS A WINDOW?",
+      "article": "A window is a separate viewing area on a computer display screenin a system that allows multiple viewing areas as part of a graphical user interface (GUI). Windows are managed by a windows manager as part of a windowing system.",
+      "img": "window"
+    },
+    {
+      "header": "WHAT IS A MOBILE APP?",
+      "article": "A mobile application or app is a computer program or software application designed to run on a mobile device such as phone, tablet or watch.",
+      "img": "mobile_app"
+    }
+  ]
+}
